@@ -2,6 +2,6 @@
 
 - 👀 I’m interested in music, video games, art and any kind of creative output!
 
-- 🌱 I’m currently learning python and java more indepth, also practicing some sound sythesis.
+- 🌱 I specialize in Machine Learning, Mobile Development and Kubernetes
 
 
