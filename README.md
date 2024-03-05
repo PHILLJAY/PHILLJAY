@@ -2,6 +2,6 @@
 
 - 👀 I’m interested in music, video games, art and any kind of creative output!
 
-- 🌱 I specialize in Machine Learning, Mobile Development and Kubernetes
+- 🌱 I specialize in web development and databases.
 
 
